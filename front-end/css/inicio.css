@@ -1,6 +1,8 @@
-.menubar{
+.menubar {
     margin-top: 1%;
     background-color: #f28cb4;
+    text-align: center;
+    width: 100%; 
 }
 a{
     padding: 10% 11%;
