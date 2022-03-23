@@ -1,0 +1,14 @@
+.menubar {
+    margin-top: 1%;
+    background-color: #f28cb4;
+    text-align: center;
+    width: 100%; 
+}
+a{
+    padding: 10% 11%;
+    text-align: center;
+    position: relative;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    color: #0197D9;
+}
