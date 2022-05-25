@@ -1,0 +1,47 @@
+[
+    {
+        "Id_Producto": 100,
+        "Nombre": "Vaso maxi",
+        "Barras": "",
+        "Frutas": [],
+        "Toppings": [],
+        "Cuchara": 0,
+        "Imagen": "/assets/products/Vaso_maxi.jpg",
+        "description": "Helado de 230 ml. con 3 Frutas a elección.",
+        "Price": "3.50"
+    },
+    {
+        "Id_Producto": 101,
+        "Nombre": "Vaso original",
+        "Barras": "",
+        "Frutas": [],
+        "Toppings": [],
+        "Cuchara": 0,
+        "Imagen": "/assets/products/Vaso_original.jpg",
+        "description": "Helado de 170 ml con 2 Frutas a elección.",
+        "Price": "2.50"
+    },
+    {
+        "Id_Producto": 102,
+        "Nombre": "Yogen to go big",
+        "Barras": "",
+        "Frutas": [],
+        "Toppings": [],
+        "Cuchara": 0,
+        "Imagen": "/assets/products/Vaso_to_go.jpg",
+        "description": "Helado de 750 ml con 5 Frutas a elección.",
+        "Price": "4.50"
+
+    },
+    {
+        "Id_Producto": 103,
+        "Nombre": "Yogen to go small",
+        "Barras": "",
+        "Frutas": [],
+        "Toppings": [],
+        "Cuchara": 0,
+        "Imagen": "/assets/products/Vaso_to_go.jpg",
+        "description": "Helado de 470 ml con 4 Frutas a elección.",
+        "Price": "7.99"
+    }
+]
